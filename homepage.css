@@ -30,3 +30,8 @@ li a:hover:not(.active) {
 h1 {
 	text-align: center;
 }
+
+.centerText{
+	text-align: center;
+
+}
